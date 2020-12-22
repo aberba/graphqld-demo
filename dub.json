@@ -1,0 +1,18 @@
+{
+	"authors": [
+		"aberba"
+	],
+	"copyright": "Copyright © 2020, aberba",
+	"dependencies": {
+		"graphqld": "~>3.4.3",
+		"nullablestore": "~>2.1.0",
+		"requests": "~>2.0.0",
+		"vibe-d": "~>0.9"
+	},
+	"versions": [
+		"VibeHighEventPriority"
+	],
+	"description": "A GraphQL demo inD\u001B[D ",
+	"license": "proprietary",
+	"name": "demo-graphql"
+}

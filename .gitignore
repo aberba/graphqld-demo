@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/demo-graphql
+demo-graphql.so
+demo-graphql.dylib
+demo-graphql.dll
+demo-graphql.a
+demo-graphql.lib
+demo-graphql-test-*
+*.exe
+*.o
+*.obj
+*.lst
